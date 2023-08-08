@@ -1,4 +1,4 @@
-# Brendan-Website
+# Brendan Kariithi- Website
 
 # Aspiring Electrical & Software Engineer, intertwining acoustics, engineering, and computer science to produce high-quality loudspeaker systems.
 
