@@ -2,7 +2,7 @@
 
 <div class="container">
   <img src="./PFPR6158.jpg" style = "width: 50% ; margin =  auto; diplay: block"> 
-  <div class="centered">Centered</div>
+  <div class="Brendan Kariithi">Centered</div>
 </div>
 
 /* Centered text */
@@ -15,8 +15,5 @@
 
 # Aspiring Electrical & Software Engineer, intertwining acoustics, engineering, and computer science to produce high-quality loudspeaker systems.
 
-* Welcome to my website. Here you will find my interests, projects I have worked on, and my professional experience as well.
-
-# Brendan Kariithi
-<img src="./PFPR6158.jpg" style = "width: 50%; margin =  auto; diplay: block"> 
+Welcome to my website. Here you will find my interests, projects I have worked on, and my professional experience as well.
 
