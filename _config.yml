@@ -1,7 +1,7 @@
-title: Brendan Kariithi
-description: EE-SWE Portfolio
-theme: just-the-docs
+# title: Brendan Kariithi
+# description: EE-SWE Portfolio
+remote_theme: pages-themes/cayman@v0.2.0
 
-url: https.//https://bkariithi.github.io/Brendan-Website
+# url: https.//https://bkariithi.github.io/Brendan-Website
 
-Template Repository: https://github.com/bkariithi/Brendan-Website
+# Template Repository: https://github.com/bkariithi/Brendan-Website
